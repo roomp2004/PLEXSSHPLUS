@@ -17,7 +17,7 @@ Só joga na máquina e deixar instalar
 
 • instala recursos e o script
 ```
-apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/JeanRocha91x/SSHPLUS/main/ssh-plus)
+apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/roomp2004/PLEXSSHPLUS/main/ssh-plus)
 
 ```
 <div align="left">

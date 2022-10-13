@@ -52,7 +52,7 @@ fun_udp1 () {
 	        cd $HOME
 			apt-get install dos2unix -y
             wget https://www.dropbox.com/s/b5bfltq3texar04/badvpn-udpgw -o /dev/null
-			wget https://raw.githubusercontent.com/JeanRocha91x/SSHPLUS/main/badvpn/antcrashvpn.sh -o /dev/null
+			wget https://raw.githubusercontent.com/roomp2004/PLEXSSHPLUS/main/badvpn/antcrashvpn.sh -o /dev/null
 			dos2unix antcrashvpn.sh
 			mv -f $HOME /antcrashvpn.sh /bin/antcrashvpn.sh
             mv -f $HOME/badvpn-udpgw /bin/badvpn-udpgw

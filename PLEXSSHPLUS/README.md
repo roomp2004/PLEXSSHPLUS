@@ -1,8 +1,8 @@
 # SEJA BEM VINDO(A)! 🤝
 
-# SSH-PLUS
+# PLEXSSHPLUS
 
-# @swittecnologia
+# (https://t.me/PlexNet2022)
 
 *PROJETO EM ANDAMENTO...
 
